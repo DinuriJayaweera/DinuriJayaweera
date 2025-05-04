@@ -26,6 +26,7 @@
   </tr>
 </table>
 
- ![DinuriJayaweera's Stats](https://github-readme-stats.vercel.app/api?username=DinuriJayaweera&theme=blueberry&show_icons=true&hide_border=true&count_private=true)
+ ![DinuriJayaweera's Stats](https://github-readme-stats.vercel.app/api?username=DinuriJayaweera&show_icons=true&hide_border=true&count_private=true&title_color=00BFFF&text_color=FFFFFF&icon_color=00BFFF&bg_color=000000)
+
 
 
