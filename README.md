@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=html,css,js,java,react,py,dart,flutter,c,cs,git,github,tailwind,bootstrap,mysql,firebase,androidstudio,vscode,visualstudio,figma&theme=dark&perline=13"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,c,cs,java,react,py,dart,flutter,git,github,tailwind,bootstrap,mysql,firebase,androidstudio,vscode,visualstudio,figma&theme=dark&perline=13"/>
  </a>
 </p>
 <table>
