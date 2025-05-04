@@ -6,13 +6,9 @@
 
 <br/>
 
-
 <h3 align="left">Languages and Tools:</h3>
 
-
 <br/>
-
-
 
 <p align="center">
   <a href="https://skillicons.dev">
