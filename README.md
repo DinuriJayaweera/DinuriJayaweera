@@ -28,5 +28,9 @@
 
  ![DinuriJayaweera's Stats](https://github-readme-stats.vercel.app/api?username=DinuriJayaweera&show_icons=true&hide_border=true&count_private=true&title_color=00BFFF&text_color=FFFFFF&icon_color=00BFFF&bg_color=000000)
 
+ <br/>
+
+ [![@dinurijayaweera's Holopin board](https://holopin.me/dinurijayaweera)](https://holopin.io/@dinurijayaweera)
+
 
 
